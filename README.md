@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Aelita
 
-<!--
-**lita-alita/lita-alita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with 4 years of experience.
+I build fast, scalable SPA and love clean UI/UX.
 
-Here are some ideas to get you started:
+### 🧠 Tech Stack
+React • Next.js • TypeScript • SCSS • Node.js • Web3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I do
+- Build production-ready React apps
+- Optimize performance (Core Web Vitals)
+- Design frontend architecture
+- Mentor developers
+
+### 📌 Featured projects
+- NFT Marketplace (React + Web3)
+- PWA with WebGL games
+- Landings
+
+### 📫 Contacts
+Telegram: @Lita_alita  
+Email: aelitaf@bk.ru
